@@ -1,0 +1,2 @@
+# hirataripo
+Git学習
